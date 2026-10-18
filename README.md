@@ -1,1 +1,11 @@
-Maquette 1 UZTA. La photographie panoramique générée et validée a été intégrée sous le CTA, avant le pied de page. Tous les autres fichiers du projet sont identiques à la version précédente. Cette image est une illustration générée, pas une photographie documentaire d’Ustaritz.
+# UZTA – Site des commerçants d'Ustaritz (HTML + CSS)
+
+Site statique, sans build.
+
+index.html     Accueil
+a-propos.html  À propos
+blog.html      Blog
+css/style.css  Styles
+images/        Images
+
+Vercel : importer le dépôt, Framework Preset « Other », aucune commande de build.
