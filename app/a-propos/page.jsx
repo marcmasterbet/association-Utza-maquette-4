@@ -1,0 +1,1 @@
+export default function Page(){return <><header className="top"><a className="brand" href="/">UZTA</a><nav><a href="/">Accueil</a><a href="/a-propos">À propos</a><a href="/blog">Blog</a></nav></header><main className="pending"><h1>À propos</h1></main></>}

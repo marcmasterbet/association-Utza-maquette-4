@@ -1,0 +1,1 @@
+import './globals.css';export const metadata={title:'UZTA | Ustaritz',description:"Association UZTA — commerçants, artisans et professionnels d'Ustaritz"};export default function Layout({children}){return <html lang="fr"><body>{children}</body></html>}
